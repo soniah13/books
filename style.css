@@ -1,0 +1,13 @@
+#container1,button{
+    background-color: rgb(194, 219, 119);
+    width: 200px;
+    height: 100px;
+    font-size: larger;
+}
+#container2,button{
+    background-color: rgb(9, 9, 8);
+    width: 200px;
+    height: 100px;
+    font-size: larger;
+    color: white;
+}
